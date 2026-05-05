@@ -8,13 +8,11 @@
 
 ### 🛠 Мой технологический стек:
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Django" />
-  <img src="https://shields.io" alt="Flask" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Docker" />
-</p>
+![Python](https://shields.io)
+![Django](https://shields.io)
+![Flask](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Docker](https://shields.io)
 
 *   **Backend:** Python (Core, OOP), Django, DRF, Flask.
 *   **Databases:** PostgreSQL, SQLAlchemy, SQLite.
