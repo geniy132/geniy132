@@ -14,10 +14,10 @@
 ![PostgreSQL](https://shields.io)
 ![Docker](https://shields.io)
 
-- **Backend:** Python (Core, OOP), Django, DRF, Flask.
-- **Databases:** PostgreSQL, SQLAlchemy, SQLite.
-- **DevOps:** Docker, Nginx, GitHub Actions (CI/CD).
-- **Testing:** Pytest, Unittest.
+*   **Backend:** Python (Core, OOP), Django, DRF, Flask.
+*   **Databases:** PostgreSQL, SQLAlchemy, SQLite.
+*   **DevOps:** Docker, Nginx, GitHub Actions (CI/CD).
+*   **Testing:** Pytest, Unittest.
 
 ---
 
