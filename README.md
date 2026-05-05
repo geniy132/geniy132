@@ -1,16 +1,38 @@
-## Hi there 👋
+# Привет, я Евгений Агаджанов! 👋
 
-<!--
-**geniy132/geniy132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Python Developer | Backend Engineer
 
-Here are some ideas to get you started:
+Я перешел в разработку после 9 лет успешной карьеры в FinTech и ритейле (от менеджера до директора магазина). Мой опыт управления и глубокое понимание бизнес-процессов помогают мне создавать код, который решает реальные задачи бизнеса.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мой технологический стек:
+
+![Python](https://shields.io)
+![Django](https://shields.io)
+![Flask](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Docker](https://shields.io)
+
+- **Backend:** Python (Core, OOP), Django, DRF, Flask.
+- **Databases:** PostgreSQL, SQLAlchemy, SQLite.
+- **DevOps:** Docker, Nginx, GitHub Actions (CI/CD).
+- **Testing:** Pytest, Unittest.
+
+---
+
+### 🚀 Ключевые проекты:
+
+- **[Foodgram](https://github.com/geniy132/foodgram/)** — Полнофункциональный сервис рецептов с настроенным CI/CD и контейнеризацией.
+- **[YaCut](https://github.com/geniy132/async-yacut/)** — Асинхронный сервис сокращения ссылок с интеграцией API Яндекс Диска.
+- **[Homework-bot](https://github.com/geniy132/homework-bot/)** — Телеграм-бот для мониторинга статусов через внешние API.
+
+---
+
+### 📫 Как со мной связаться:
+
+- **Email:** geniy@live.ru
+- **HH.ru:** [резюме](https://smolensk.hh.ru/resume/4d9926faff1059789c0039ed1f65506133654c)
+
+---
+*«Умею не просто писать код, а понимать бизнес-логику продукта и автоматизировать рутину»*
