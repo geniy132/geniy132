@@ -28,7 +28,7 @@
 ### 📫 Как со мной связаться:
 
 - **Email:** geniy@live.ru
-- **HH.ru:** [резюме](https://smolensk.hh.ru/resume/4d9926faff1059789c0039ed1f65506133654c)
+- **hh.ru:** [резюме](https://smolensk.hh.ru/resume/4d9926faff1059789c0039ed1f65506133654c)
 - **Профиль в MAX:** [написать](https://max.ru/u/f9LHodD0cOL55DRAehVEnrU8tUlGeFhqII3BgfJr7G-pCRCNHDNfD49_weQ)
 
 ---
