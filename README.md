@@ -19,9 +19,9 @@
 
 ### 🚀 Ключевые проекты:
 
-- **[Foodgram](https://github.com/geniy132/foodgram/)** — Полнофункциональный сервис рецептов с настроенным CI/CD и контейнеризацией.
-- **[YaCut](https://github.com/geniy132/async-yacut/)** — Асинхронный сервис сокращения ссылок с интеграцией API Яндекс Диска.
-- **[Homework-bot](https://github.com/geniy132/homework-bot/)** — Телеграм-бот для мониторинга статусов через внешние API.
+- **[Foodgram](https://github.com/geniy132/foodgram/)** — полнофункциональный сервис рецептов с настроенным CI/CD и контейнеризацией.
+- **[YaCut](https://github.com/geniy132/async-yacut/)** — асинхронный сервис сокращения ссылок с интеграцией API Яндекс Диска.
+- **[Homework-bot](https://github.com/geniy132/homework-bot/)** — телеграм-бот для мониторинга статусов через внешние API.
 - **[Django Testing](https://github.com/geniy132/django-testing/)** — покрытие приложений (YaNote и YaNews) тестами на Pytest и Unittest.
 
 ---
